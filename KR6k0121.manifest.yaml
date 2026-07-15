@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0121/v1
 canonical_location: https://kanripo.org/bkk/KR6k0121/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 菩薩戒羯磨文
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0121_000.yaml, hash: 'sha256:eba77acc59c125c81ae12f5b4da92d45f5483313c1e6ff4ddb770c6a2a046e6b'}
-  - {seq: 1, filename: KR6k0121_001.yaml, hash: 'sha256:9943242b1299e18eec9c28b962499e6dffb847fa2853dadba8e39e7f5f739ca7'}
+  - {seq: 1, filename: KR6k0121_001.yaml, hash: 'sha256:8f33ecf7f5d479e35fae7da4978624fae9ad3cca2e2d78b4bfdff14d7e9f6371'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0121_000.markers.yaml, hash: 'sha256:44a65d4fa1480eba80b584b1accfa2c2a6046b7b466a085832564a3cf000c152'}
-  - {seq: 1, role: markers, filename: assets/KR6k0121_001.markers.yaml, hash: 'sha256:868d1062046ab2fe1ef20b67a9d8263fa50f8cbbf5632e8913daabeb59caf64a'}
+  - {seq: 1, role: markers, filename: assets/KR6k0121_001.markers.yaml, hash: 'sha256:ee3a5d43b4937b2dd9e7bb37179f0e1560fe9c8753db2f25b38961d531eb93f9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -89,4 +89,7 @@ table_of_contents:
   label: 序
   type: mulu
   level: 1
-hash: sha256:dcc0c1860c59b2ad3f50c5a65ec0ca1db75d3bbcf5a3af76c93c45e629ea4773
+hash: sha256:2660b5ef664653de7b41eb28f30b45a07f508083a9dd473d450f1ef3b604f4ed
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
